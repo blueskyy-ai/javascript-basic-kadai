@@ -1,5 +1,5 @@
 const square = (x) =>{
-  return x * 2;
+  return x * x;
 }
 
 console.log(square(5));
